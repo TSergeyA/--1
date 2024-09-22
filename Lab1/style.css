@@ -1,0 +1,27 @@
+body {
+    background-color: #ADD8E6;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 24pt;
+}
+
+p {
+    font-size: 18pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black; 
+}
+
+button {
+    width: 35px; 
+}
+git init
+git add .
+git commit -m "Перший коміт: додав файли HTML та CSS"
